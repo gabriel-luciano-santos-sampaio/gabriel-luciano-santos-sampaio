@@ -1,0 +1,28 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Executa diariamente à meia-noite (no horário UTC)
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Clonar o repositório
+        uses: actions/checkout@v2
+
+      - name: Gerar a Snake
+        uses: Platane/snk@v2
+        with:
+          github_user_name: seu-usuario
+          outputs: dist/snake.svg
+
+      - name: Adicionar a Snake ao repositório
+        run: |
+          git config --local user.name "seu-usuario"
+          git config --local user.email "seu-email"
+          git add -A
+          git commit -m "Atualizar Snake"
+          git push
