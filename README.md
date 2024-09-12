@@ -11,7 +11,7 @@
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/gabriel-lucianoo-santos-sampaio-b71331317" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/gabriel-lucianoo-santos-sampaio-b71331317" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/GabrielLucianoSantosSampaio-b71331317" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/gabriel-lucianoo-santos-sampaio-b71331317" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/gabriel_sampaiols/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/gabriel_sampaiols/" height="30" width="40" /></a>
 </p>
 
