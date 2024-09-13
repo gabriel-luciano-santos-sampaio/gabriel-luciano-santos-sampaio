@@ -44,7 +44,7 @@
   </a> 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriel-luciano-santos-sampaio&show_icons=true&locale=en&layout=compact" alt="gabriel-luciano-santos-sampaio" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriel-luciano-santos-sampaio&show_icons=true&locale=en&layout=compact&theme=dark" alt="gabriel-luciano-santos-sampaio" /></p>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabriel-luciano-santos-sampaio/gabriel-luciano-santos-sampaio/output/github-contribution-grid-snake-dark.svg">
